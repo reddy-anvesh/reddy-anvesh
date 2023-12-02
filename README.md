@@ -18,7 +18,7 @@ MY JOURNEY INTO DATA ENGINEERING
 **My Certifications and Courses**
 
 Microsoft Certified: Azure Data Fundamentals 🔗: https://learn.microsoft.com/en-us/users/anveshpendli/credentials/6f1eba8656784c5f
-Microsoft Certified: Azure Data Engineer Associate 🔗: https://lnkd.in/dwdXVqNf 
+Microsoft Certified: Azure Data Engineer Associate 🔗: https://learn.microsoft.com/en-us/users/anveshpendli/credentials/6f1eba8656784c5f
 
 
 Data Engineering, Big Data, and Machine Learning on GCP
