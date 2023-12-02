@@ -16,7 +16,9 @@ SQL Functions I Use as Data Engineer
 MY JOURNEY INTO DATA ENGINEERING
 
 **My Certifications and Courses**
+
 Microsoft Certified: Azure Data Fundamentals 🔗: https://lnkd.in/gsbSet2T
+
 Microsoft Certified: Azure Data Engineer Associate 🔗: https://lnkd.in/dwdXVqNf 
 
 
