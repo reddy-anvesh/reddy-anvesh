@@ -16,7 +16,10 @@ SQL Functions I Use as Data Engineer
 MY JOURNEY INTO DATA ENGINEERING
 
 **My Certifications and Courses**
-AWS Certified Solutions Architect – Associate
+Microsoft Certified: Azure Data Fundamentals 🔗: https://lnkd.in/gsbSet2T
+Microsoft Certified: Azure Data Engineer Associate 🔗: https://lnkd.in/dwdXVqNf 
+
+
 Data Engineering, Big Data, and Machine Learning on GCP
 Deep Learning Specialization
 Machine Learning by Andrew Ng
