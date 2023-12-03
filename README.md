@@ -1,11 +1,9 @@
 **Hi there 👋, I am Anvesh**
-
-
+🚀 A Passionate Data Engineer 
 
 - 🔭 I’m currently working as Senior Data Engineer
 - 🌱 I’m currently learning Modern Data Stack (dbt, ), Machine Learning. 
 - 👯 I'm always open to collaboration and eager to contribute to exciting data-driven projects.
-- Let's connect and explore the world of data together! 🌐✨
 - 🤔 I’m looking for help with ...                                                              
 - 💬 Ask me about Data Analysis, Data Engineering, Python, SQL, PySpark, Azure, AWS, ETL, Hadoop, SnowFlake, Databricks, Power BI
 - My Skillset: Problem Solving, Critical Thinking, Competitive Programming. 
@@ -20,11 +18,14 @@
 
 Microsoft Certified: Azure Data Fundamentals 🔗: https://learn.microsoft.com/en-us/users/anveshpendli/credentials/6f1eba8656784c5f
 Microsoft Certified: Azure Data Engineer Associate 🔗: https://learn.microsoft.com/en-us/users/anveshpendli/credentials/6f1eba8656784c5f
+
 HackerRank Certified in Python
+
 HackerRank certified in SQL 
 
 **Languages and Tools:**
 Python, SQL, PySpark, Azure, AWS, ETL, Hadoop, SnowFlake, Databricks, Power BI
 
-I love coding and I strongly believe that technology can greatly help in solving day to day problems, thereby creates a significant impact in transforming the lives of the people. I am interested in working on challenging and real-time projects that align with my values and goals.
+🔍 I love coding and I strongly believe that technology can greatly help in solving day to day problems, thereby creates a significant impact in transforming the lives of the people. I am interested in working on challenging and real-time projects that align with my values and goals.
+
 Let's connect and explore the world of data together! 🌐✨
