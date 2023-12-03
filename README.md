@@ -10,9 +10,7 @@
 - 📫 How to reach me: anveshreddyp93@gmail.com
 - ⚡ Fun fact: I am an excellent cook
 
-![github_photoo](https://github.com/reddy-anvesh/reddy-anvesh/assets/149987255/448fdc54-5826-415b-b4a5-676a8381a0e8)
-
-![github_photoo](https://github.com/reddy-anvesh/reddy-anvesh/assets/149987255/c84bc1a5-6536-450e-bd74-493d134fe0b8)
+                                       ![github_photoo](https://github.com/reddy-anvesh/reddy-anvesh/assets/149987255/5f6d45e8-ae9b-43f1-8335-7d25a4e919dc)
 
 **My Certifications and Courses**
 
