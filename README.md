@@ -2,11 +2,11 @@
 
 
 
-- 🔭 I’m currently working on ...  ![github_photoo](https://github.com/reddy-anvesh/reddy-anvesh/assets/149987255/54b77c14-cd9d-47e0-994c-e86e8a063112)
-
+- 🔭 I’m currently working on ... 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🤔 I’m looking for help with ...                                    ![github_photoo](https://github.com/reddy-anvesh/reddy-anvesh/assets/149987255/008f6146-ad74-4450-ad36-02b90561cae1)
+
 - 💬 Ask me about Data Analysis, Data Engineering, Python, SQL, PySpark, Azure, AWS, ETL, Hadoop, SnowFlake, Databricks, Power BI
 - 📫 How to reach me: anveshreddyp93@gmail.com
 - ⚡ Fun fact: I am an excellent cook
