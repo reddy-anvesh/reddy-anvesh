@@ -2,7 +2,8 @@
 
 
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on ...  ![github_photoo](https://github.com/reddy-anvesh/reddy-anvesh/assets/149987255/54b77c14-cd9d-47e0-994c-e86e8a063112)
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -10,8 +11,7 @@
 - 📫 How to reach me: anveshreddyp93@gmail.com
 - ⚡ Fun fact: I am an excellent cook
   
-                                      ![github_photoo](https://github.com/reddy-anvesh/reddy-anvesh/assets/149987255/fb6b2b06-c7e4-468d-873b-fbe6892cb5d4)
-
+  
 **My Certifications and Courses**
 
 Microsoft Certified: Azure Data Fundamentals 🔗: https://learn.microsoft.com/en-us/users/anveshpendli/credentials/6f1eba8656784c5f
