@@ -9,8 +9,8 @@
 - 💬 Ask me about Data Analysis, Data Engineering, Python, SQL, PySpark, Azure, AWS, ETL, Hadoop, SnowFlake, Databricks, Power BI
 - 📫 How to reach me: anveshreddyp93@gmail.com
 - ⚡ Fun fact: I am an excellent cook
-- 💡I love programming                     ![github_photoo](https://github.com/reddy-anvesh/reddy-anvesh/assets/149987255/94e6cb44-a92f-4b7c-8844-faf3a33483df)
-
+- 💡I love programming 
+                  
 
 **My Certifications and Courses**
 
