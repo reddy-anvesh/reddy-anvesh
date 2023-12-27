@@ -2,7 +2,7 @@
 🚀 A Passionate Data Engineer 
 
 - 🔭 I’m currently working as a Senior Data Engineer
-- 🌱 I’m currently learning Modern Data Stack (dbt, Apache Flink), Machine Learning. 
+- 🌱 I’m currently learning Modern Data Stack (DBT, Apache Flink), Machine Learning. 
 - 👯 I'm always open to collaboration and eager to contribute to exciting data-driven projects.                                                              
 - 💬 Ask me about Data Analysis, Data Engineering, Python, SQL, PySpark, Azure, AWS, ETL, Hadoop, SnowFlake, Databricks, Power BI. 
 - 💡 My Skillset: Problem Solving, Critical Thinking, Competitive Programming. 
