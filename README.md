@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anvesh Reddy</h1>
-<h3 align="center">A passionate Data Engineer | Certified DE Developer | Open to collaboration | Python | Scala | SQL | NoSQL | PySpark | Azure | AWS | ETL | DBT | Big Data | SnowFlake | Databricks | BI | CI/CD | SDLC | Agile</h3>
+<h3 align="center">A passionate Data Engineer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reddy-anvesh&label=Profile%20views&color=0e75b6&style=flat" alt="reddy-anvesh" /> </p>
 
