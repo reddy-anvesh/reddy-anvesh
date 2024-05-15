@@ -40,11 +40,6 @@
 ***Others:*** 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 
-**Microsoft Cloud Certifications:**
-Microsoft Certified: Azure Data Fundamentals 🔗: https://learn.microsoft.com/en-us/users/anveshpendli/credentials/493fb6042f57bd63
-
-Microsoft Certified: Azure Data Engineer Associate 🔗: https://learn.microsoft.com/en-us/users/anveshpendli/credentials/6f1eba8656784c5f 
-
 
 🔍 I love coding and I strongly believe that technology can greatly help in solving day to day problems, thereby creates a significant impact in transforming the lives of the people. I am interested in working on challenging and real-time projects that align with my values and goals.📈💡
 
