@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reddy-anvesh&label=Profile%20views&color=0e75b6&style=flat" alt="reddy-anvesh" /> </p>
 
-- 🔭 I’m currently working as **Senior Data Engineer** (https://learn.microsoft.com/en-us/users/anveshpendli/credentials/6f1eba8656784c5f)
+- 🔭 I’m currently working as **Senior Data Engineer** 
 
 - 🌱 I’m currently learning **Modern Data Stack (DBT, Apache Flink, Matillion ELT Tool).**
 
@@ -12,8 +12,6 @@
 - 💬 Ask me about **Data Analysis, Data Engineering, Python, SQL, PySpark, Azure, AWS, ETL, Hadoop, SnowFlake, Databricks, Power BI.**
 
 - 📫 How to reach me **anveshreddyp93@gmail.com**
-
-- MS Certified: [https://learn.microsoft.com/en-us/users/anveshpendli/credentials/6f1eba8656784c5f](https://learn.microsoft.com/en-us/users/anveshpendli/credentials/6f1eba8656784c5f)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -41,6 +39,11 @@
 
 ***Others:*** 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+
+**Microsoft Cloud Certifications:**
+Microsoft Certified: Azure Data Fundamentals 🔗: https://learn.microsoft.com/en-us/users/anveshpendli/credentials/493fb6042f57bd63
+
+Microsoft Certified: Azure Data Engineer Associate 🔗: https://learn.microsoft.com/en-us/users/anveshpendli/credentials/6f1eba8656784c5f 
 
 
 🔍 I love coding and I strongly believe that technology can greatly help in solving day to day problems, thereby creates a significant impact in transforming the lives of the people. I am interested in working on challenging and real-time projects that align with my values and goals.📈💡
