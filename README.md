@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working as **Senior Data Engineer** 
 
-- 🌱 I’m currently learning **Modern Data Stack (DBT, Apache Flink, Matillion ELT Tool).**
+- 🌱 I’m currently learning **DBT (Data Build Tool).**
 
 - 👯 I'm always open to **Collaboration and eager to contribute to exciting data-driven projects.**
 
